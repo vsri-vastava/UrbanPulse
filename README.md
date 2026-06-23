@@ -377,6 +377,14 @@ Prayatna3.0/
 | ✅ Dynamic risk tracking | Celery workers update continuously in background |
 
 ---
+## Project Information
+
+Group project developed as part of a team. Original repository maintained by Aditya.
+Team Members-
+- Vanchha Srivastava
+- Aditya Singh
+- Akshansh Bhagat
+- Krishna Agarwal
 
 ## 📄 License
 
